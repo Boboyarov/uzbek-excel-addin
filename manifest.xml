@@ -8,15 +8,15 @@
   <DefaultLocale>uz-UZ</DefaultLocale>
   <DisplayName DefaultValue="O‘zbek Kirill-Lotin"/>
   <Description DefaultValue="Excel uchun o‘zbek kirill-lotin konvertori"/>
-  <IconUrl DefaultValue="https://YOUR-USERNAME.github.io/uzbek-excel-addin/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://YOUR-USERNAME.github.io/uzbek-excel-addin/icon-64.png"/>
-  <SupportUrl DefaultValue="https://github.com/YOUR-USERNAME/uzbek-excel-addin"/>
+  <IconUrl DefaultValue="https://boboyarov.github.io/uzbek-excel-addin/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://boboyarov.github.io/uzbek-excel-addin/icon-64.png"/>
+  <SupportUrl DefaultValue="https://github.com/Boboyarov/uzbek-excel-addin"/>
   <AppDomains>
-    <AppDomain>https://YOUR-USERNAME.github.io</AppDomain>
+    <AppDomain>https://boboyarov.github.io</AppDomain>
   </AppDomains>
   <Hosts><Host Name="Workbook"/></Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://YOUR-USERNAME.github.io/uzbek-excel-addin/taskpane.html"/>
+    <SourceLocation DefaultValue="https://boboyarov.github.io/uzbek-excel-addin/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
